@@ -1,0 +1,62 @@
+.airbnb-icon{
+    margin-top: 20px;
+    color:red;
+    display: flex;
+}
+.airbnb-icon h3 {
+    padding-left: 10px;
+
+}
+.airbnb-search{
+    display: flex;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius:50px;
+}
+.menus{
+    color: red;
+    padding-top: 3px;
+    padding-left: 10px;
+}
+.airbnb-end{
+    display: flex;
+    
+}
+.airbnb-end h6{
+    padding-right: 10px;
+    
+}
+.air-end{
+    margin-left: 15px;
+    padding-right: 10px;
+    padding-left: 10px ;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.menu{
+  margin-top: 20px;
+    display: flex;
+    margin: 20px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    
+}
+.ajay{
+    margin: 20px;
+    padding: 10px;
+    row-gap: 20px;
+    column-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: space-around;
+    
+}
+.card{
+    border-radius: 30px;
+}
+
